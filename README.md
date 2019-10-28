@@ -9,6 +9,9 @@ Image with flash:
 
 Image without flash:
 
-![Flash photo](/test3b.jpg)
+![No Flash photo](/test3b.jpg)
 
 ### Resulting image with Joint Bilateral Filter:
+
+![Result](/jointBilateralFilter.jpg)
+
